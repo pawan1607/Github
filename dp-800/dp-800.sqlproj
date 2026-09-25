@@ -14,5 +14,6 @@
   </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
+    <None Include="orders-seed.txt" />
   </Target>
 </Project>
