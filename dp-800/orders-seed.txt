@@ -1,0 +1,10 @@
+IF NOT EXISTS (SELECT 1 FROM [dbo].[orders])
+BEGIN
+    INSERT INTO [dbo].[orders] ([Id])
+    VALUES
+        (1),
+        (2),
+        (3),
+        (4),
+        (5);
+END;

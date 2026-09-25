@@ -1,1 +1,5 @@
 c:\Users\Pawan\OneDrive\Desktop\Github\dp-800\bin\Debug\dp-800.dacpac
+c:\Users\Pawan\OneDrive\Desktop\Github\dp-800\obj\Debug\Model.xml
+c:\Users\Pawan\OneDrive\Desktop\Github\dp-800\obj\Debug\refactor.xml
+c:\Users\Pawan\OneDrive\Desktop\Github\dp-800\obj\Debug\postdeploy.sql
+c:\Users\Pawan\OneDrive\Desktop\Github\dp-800\obj\Debug\predeploy.sql
